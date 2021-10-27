@@ -1,6 +1,6 @@
 
 # FaceMaskDetector- YOLOv3, Darknet, OpenCV , Transfer Learning
-
+![](demo.gif)
 
 ## 📝 Overview
 Trained the YOLOv3 model on custom facemask detection kaggle dataset using Darknet on GoogleColab.The model predicts three
