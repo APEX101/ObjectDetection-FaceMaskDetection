@@ -21,9 +21,12 @@ detect on images and videos.
 ## ⏳ DataSet
 https://www.kaggle.com/andrewmvd/face-mask-detection
 
-## 🔥 CustomWeights
+## 🔥 TransferLearningWeights
 
 https://github.com/AlexeyAB/darknet
+
+## 💡TrainedWeights
+https://drive.google.com/file/d/1-3QX6x2phhM_yyBV2m3A7CoUttBC5P1p/view?usp=sharing
 
 ## 🖥️ Installation
 ### 🛠️ Requirement
